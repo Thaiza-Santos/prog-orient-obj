@@ -33,7 +33,7 @@ class Produto {
   }
 
   void exibirResumo() {
-    print("Resumo da Comp :");
+    print("Resumo da Compra:");
     print('Código: $codigo');
     print('Nome: $nome');
     print('Preço Unitário: R\$ ${precoUnitario.toStringAsFixed(2)}');

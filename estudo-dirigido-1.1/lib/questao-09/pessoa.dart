@@ -11,7 +11,7 @@ class Pessoa {
       print("Erro: O nome não pode ser vazio.");
     }
     if (idade < 0) {
-      print("Erro: A idade deveser maior ou igual a zero.");
+      print("Erro: A idade deve ser maior ou igual a zero.");
     }
     if (cpf.isEmpty) {
       print("Erro: O CPF não pode ser vazio.");
@@ -24,6 +24,6 @@ class Pessoa {
     print("Idade: $idade anos");
     print("CPF: $cpf");
     endereco.exibirEndereco();
-    print(" -----------------------------");
+    print(" -----------------------------\n");
   }
 }
