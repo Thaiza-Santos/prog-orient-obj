@@ -19,6 +19,7 @@ class Data {
     //padleft para adicionar zeros a esquerda
     String d = dia.toString().padLeft(2, '0');
     String m = mes.toString().padLeft(2, '0');
+    String a = ano.toString().padLeft(4, '0');
     // exibindo a data
     print('$d/$m/$a');  
   }
