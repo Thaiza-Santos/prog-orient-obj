@@ -16,7 +16,7 @@ class Produto {
   double calcularDesconto() {
     double subtotal = precoUnitario * quantidade;
 
-    if (quantidade >= 4){
+    if (quantidade < 5){
       return 0.0; //  sem desconto
     } else if (quantidade >=5 && quantidade <= 9) {
       return subtotal * 0.05; // 5% de desconto
