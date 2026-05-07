@@ -1,4 +1,4 @@
-import 'Aluno.dart';
+import '../../../estudo-dirigido-1.2/lib/questao03/Aluno.dart';
 
 void main() {
   Aluno a1 = Aluno(
