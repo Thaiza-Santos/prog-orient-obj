@@ -1,4 +1,3 @@
-import 'Produto.dart';
 import 'ProdutoPerecivel.dart';
 
 int main() {
