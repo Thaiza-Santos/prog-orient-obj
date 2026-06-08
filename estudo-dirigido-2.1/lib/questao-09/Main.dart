@@ -1,4 +1,3 @@
-import 'Pedido.dart';
 import 'PedidoDelivery.dart';
 
 void main() {

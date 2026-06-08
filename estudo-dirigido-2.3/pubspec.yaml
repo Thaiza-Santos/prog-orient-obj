@@ -1,0 +1,10 @@
+name: estudo_dirigido_1_1
+description: Exercícios de Programação Orientada a Objetos em Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
