@@ -1,4 +1,3 @@
-import 'Dispositivo.dart';
 import 'Smartphone.dart';
 
 void main() {
